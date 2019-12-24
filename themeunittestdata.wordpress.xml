@@ -9762,7 +9762,7 @@ Be sure to test the formatting of the auto-generated excerpt, to ensure that it 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":968} -->
-<figure class="wp-block-image"><img src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" alt="Image Alignment 150x150" class="wp-image-968"/></figure>
+<figure class="wp-block-image"><img src="https://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" alt="Image Alignment 150x150" class="wp-image-968"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":1} -->
@@ -9816,16 +9816,16 @@ data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/
 <figure><img src="https://wpthemetestdata.files.wordpress.com/2008/06/windmill.jpg" alt="Windmill" data-id="767" 
 data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery//dcf-1-0/" class="wp-image-767"/>
 <figcaption>Windmill shrouded in fog at a farm outside of Walker, Iowa</figcaption></figure></li>
-<li class="blocks-gallery-item"><figure><img src="http://wpthemetestdata.files.wordpress.com/2008/06/img_8399.jpg" 
+<li class="blocks-gallery-item"><figure><img src="https://wpthemetestdata.files.wordpress.com/2008/06/img_8399.jpg" 
 alt="Boat Barco Texture" data-id="771" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_8399/" 
 class="wp-image-771"/><figcaption>Boat BW PB Barco Texture Beautiful Fishing</figcaption></figure></li>
-<li class="blocks-gallery-item"><figure><img src="http://wpthemetestdata.files.wordpress.com/2008/06/img_0767.jpg" 
+<li class="blocks-gallery-item"><figure><img src="https://wpthemetestdata.files.wordpress.com/2008/06/img_0767.jpg" 
 alt="Huatulco Coastline" data-id="770" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery//img_0767/" 
 class="wp-image-770"/><figcaption>Coastline in Huatulco, Oaxaca, Mexico</figcaption></figure></li>
 <li class="blocks-gallery-item"><figure><img src="https://wpthemetestdata.files.wordpress.com/2012/06/dsc20040724_152504_532.jpg" alt="" data-id="807" 
 data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20040724_152504_532-2/" class="wp-image-807"/>
 </figure></li><li class="blocks-gallery-item"><figure>
-<img src="http://wpthemetestdata.files.wordpress.com/2008/06/dsc20051220_173257_119.jpg" alt="Rusty Rail" data-id="764" 
+<img src="https://wpthemetestdata.files.wordpress.com/2008/06/dsc20051220_173257_119.jpg" alt="Rusty Rail" data-id="764" 
 data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20051220_173257_119/" class="wp-image-764"/>
 <figcaption>Rusty rails with fishplate, Kojonup</figcaption></figure></li><li class="blocks-gallery-item"><figure>
 <img src="https://wpthemetestdata.files.wordpress.com/2008/06/dscn3316.jpg" alt="Sea and Rocks" data-id="765" 
@@ -10837,7 +10837,7 @@ Francisco</figcaption></figure></li><li class="blocks-gallery-item"><figure><img
 <figure><img src="https://wpthemetestdata.files.wordpress.com/2012/12/unicorn-wallpaper.jpg" alt="Unicorn Wallpaper" data-id="1045" data-link="https://wpthemetestdata.wordpress.com/2010/08/08/post-format-image/unicorn-wallpaper/" class="wp-image-1045"/></figure></li><li class="blocks-gallery-item"><figure>
 <img src="https://wpthemetestdata.files.wordpress.com/2010/08/manhattansummer.jpg" alt="" data-id="827" data-link="https://wpthemetestdata.wordpress.com/about/clearing-floats/olympus-digital-camera/" class="wp-image-827"/></figure></li><li class="blocks-gallery-item"><figure>
 <img src="https://wpthemetestdata.files.wordpress.com/2012/06/dsc20040724_152504_532.jpg" alt="" data-id="807" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20040724_152504_532-2/" class="wp-image-807"/></figure></li><li class="blocks-gallery-item">
-<figure><img src="http://wpthemetestdata.files.wordpress.com/2008/06/img_8399.jpg" alt="Boat Barco Texture" data-id="771" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_8399/" class="wp-image-771"/><figcaption>Boat BW PB Barco Texture Beautiful Fishing</figcaption>
+<figure><img src="https://wpthemetestdata.files.wordpress.com/2008/06/img_8399.jpg" alt="Boat Barco Texture" data-id="771" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_8399/" class="wp-image-771"/><figcaption>Boat BW PB Barco Texture Beautiful Fishing</figcaption>
 </figure></li></ul>
 <!-- /wp:gallery -->
 
@@ -10954,7 +10954,7 @@ data-link="https://wpthemetestdata.wordpress.com/2010/08/08/post-format-image/un
 <li class="blocks-gallery-item"><figure><img src="https://wpthemetestdata.files.wordpress.com/2010/08/manhattansummer.jpg" alt="" data-id="827" data-link="https://wpthemetestdata.wordpress.com/about/clearing-floats/olympus-digital-camera/" class="wp-image-827"/></figure></li>
 <li class="blocks-gallery-item"><figure><img src="https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050604_133440_34211.jpg" alt="" data-id="811" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20050604_133440_3421/" class="wp-image-811"/></figure></li><li class="blocks-gallery-item">
 <figure><img src="https://wpthemetestdata.files.wordpress.com/2012/06/dsc20040724_152504_532.jpg" alt="" data-id="807" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20040724_152504_532-2//" class="wp-image-807"/></figure></li>
-<li class="blocks-gallery-item"><figure><img src="http://wpthemetestdata.files.wordpress.com/2008/06/img_8399.jpg" alt="Boat Barco Texture" data-id="771" 
+<li class="blocks-gallery-item"><figure><img src="https://wpthemetestdata.files.wordpress.com/2008/06/img_8399.jpg" alt="Boat Barco Texture" data-id="771" 
 data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_8399/" class="wp-image-771"/><figcaption>Boat BW PB Barco Texture Beautiful Fishing</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://wpthemetestdata.files.wordpress.com/2008/06/img_0767.jpg" alt="Huatulco Coastline" data-id="770" 
 data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery//img_0767/" class="wp-image-770"/><figcaption>Coastline in Huatulco, Oaxaca, Mexico</figcaption></figure></li><li class="blocks-gallery-item"><figure>
 <img src="https://wpthemetestdata.files.wordpress.com/2008/06/img_0747.jpg" alt="Brazil Beach" data-id="769" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_0747/" class="wp-image-769"/><figcaption>Jericoacoara Ceara Brasil</figcaption>
@@ -10996,7 +10996,7 @@ data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/
 </li><li class="blocks-gallery-item"><figure><img src="https://wpthemetestdata.files.wordpress.com/2010/08/manhattansummer.jpg" alt="" data-id="827" data-link="https://wpthemetestdata.wordpress.com/about/clearing-floats/olympus-digital-camera/" class="wp-image-827"/></figure></li>
 <li class="blocks-gallery-item"><figure><img src="https://wpthemetestdata.files.wordpress.com/2012/12/unicorn-wallpaper.jpg" alt="Unicorn Wallpaper" data-id="1045" 
 data-link="https://wpthemetestdata.wordpress.com/2010/08/08/post-format-image/unicorn-wallpaper/" class="wp-image-1045"/></figure></li>
-<li class="blocks-gallery-item"><figure><img src="http://wpthemetestdata.files.wordpress.com/2008/06/img_8399.jpg" alt="Boat Barco Texture" data-id="771" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_8399/" class="wp-image-771"/>
+<li class="blocks-gallery-item"><figure><img src="https://wpthemetestdata.files.wordpress.com/2008/06/img_8399.jpg" alt="Boat Barco Texture" data-id="771" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/img_8399/" class="wp-image-771"/>
 <figcaption>Boat BW PB Barco Texture Beautiful Fishing</figcaption></figure></li><li class="blocks-gallery-item"><figure><img src="https://wpthemetestdata.files.wordpress.com/2012/06/dsc20040724_152504_532.jpg" alt="" data-id="807" 
 data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc20040724_152504_532-2/" class="wp-image-807"/></figure></li>
 <li class="blocks-gallery-item"><figure><img src="https://wpthemetestdata.files.wordpress.com/2008/06/dsc03149.jpg" alt="Yachtsody in Blue" data-id="758" data-link="https://wpthemetestdata.wordpress.com/2010/09/10/post-format-gallery/dsc03149/" class="wp-image-758"/>
