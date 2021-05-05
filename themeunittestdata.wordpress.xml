@@ -809,11 +809,6 @@
   <wp:tag_name><![CDATA[post]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
-  <wp:term_id>44090582</wp:term_id>
-  <wp:tag_slug>post-formats</wp:tag_slug>
-  <wp:tag_name><![CDATA[Post Formats]]></wp:tag_name>
-</wp:tag>
-<wp:tag>
   <wp:term_id>2834922</wp:term_id>
   <wp:tag_slug>precipitancy</wp:tag_slug>
   <wp:tag_name><![CDATA[precipitancy]]></wp:tag_name>
@@ -2430,7 +2425,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
 </item>
 <item>
-  <title>Pages</title>
+  <title><![CDATA[Some <br>Pages]]></title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/pages/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:45 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
@@ -2453,7 +2448,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <category domain="nav_menu" nicename="testing-menu"><![CDATA[Testing Menu]]></category>
   <wp:postmeta>
     <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
@@ -2461,11 +2456,11 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1100]]></wp:meta_value>
+    <wp:meta_value><![CDATA[733]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    <wp:meta_value><![CDATA[page]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_target</wp:meta_key>
@@ -2481,7 +2476,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[#]]></wp:meta_value>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -2508,7 +2503,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <category domain="nav_menu" nicename="testing-menu"><![CDATA[Testing Menu]]></category>
   <wp:postmeta>
     <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
@@ -2516,11 +2511,11 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1101]]></wp:meta_value>
+    <wp:meta_value><![CDATA[1656]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    <wp:meta_value><![CDATA[post_tag]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_target</wp:meta_key>
@@ -2536,7 +2531,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[#]]></wp:meta_value>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -2656,7 +2651,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   <dc:creator>themedemos</dc:creator>
   <guid isPermaLink="false">https://wpthemetestdata.wordpress.com/2013/04/09/1118</guid>
   <description/>
-  <content:encoded><![CDATA[Posts in this category test unpublished posts.]]></content:encoded>
+  <content:encoded><![CDATA[Posts that have edge-case related tests]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>1118</wp:post_id>
   <wp:post_date>2013-04-09 06:37:46</wp:post_date>
@@ -2681,7 +2676,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[54090]]></wp:meta_value>
+    <wp:meta_value><![CDATA[161095136]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object</wp:meta_key>
@@ -2791,7 +2786,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
@@ -2799,11 +2794,11 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1120]]></wp:meta_value>
+    <wp:meta_value><![CDATA[174]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    <wp:meta_value><![CDATA[page]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_target</wp:meta_key>
@@ -2819,7 +2814,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[#]]></wp:meta_value>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -2850,7 +2845,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
@@ -2858,11 +2853,11 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[1121]]></wp:meta_value>
+    <wp:meta_value><![CDATA[173]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+    <wp:meta_value><![CDATA[page]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_target</wp:meta_key>
@@ -2878,7 +2873,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[#]]></wp:meta_value>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -3354,7 +3349,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
 </item>
 <item>
-  <title>Advanced</title>
+  <title><![CDATA[Advanced &frac12;]]></title>
   <link>https://wpthemetestdata.wordpress.com/2013/04/09/advanced/</link>
   <pubDate>Tue, 09 Apr 2013 13:37:49 +0000</pubDate>
   <dc:creator>themedemos</dc:creator>
@@ -3838,7 +3833,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
 		<wp:post_name><![CDATA[facebook-com]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
+		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3893,7 +3888,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
 		<wp:post_name><![CDATA[github-com]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -4167,11 +4162,11 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[page]]></wp:meta_value>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[2]]></wp:meta_value>
+    <wp:meta_value><![CDATA[33328006]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
@@ -4179,7 +4174,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -4226,11 +4221,11 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[page]]></wp:meta_value>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[501]]></wp:meta_value>
+    <wp:meta_value><![CDATA[193]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
@@ -4238,7 +4233,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -4289,7 +4284,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[155]]></wp:meta_value>
+    <wp:meta_value><![CDATA[501]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
@@ -4348,7 +4343,7 @@ If the site is set to display the Blog Posts Index as the Front Page, then this 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[156]]></wp:meta_value>
+    <wp:meta_value><![CDATA[155]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
@@ -6696,7 +6691,6 @@ Occasionally in her travels through her children's minds Mrs. Darling found thin
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_tag" nicename="readability"><![CDATA[readability]]></category>
   <category domain="post_tag" nicename="standard-2"><![CDATA[standard]]></category>
@@ -6746,7 +6740,6 @@ You can use this page to test the Theme's handling of the gallery shortcode, inc
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="gallery"><![CDATA[gallery]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
   <category domain="post_tag" nicename="shortcode"><![CDATA[shortcode]]></category>
@@ -6774,7 +6767,6 @@ You can use this page to test the Theme's handling of the gallery shortcode, inc
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="aside"><![CDATA[aside]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-aside"><![CDATA[Aside]]></category>
 </item>
@@ -6924,7 +6916,6 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="chat"><![CDATA[chat]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-chat"><![CDATA[Chat]]></category>
@@ -6952,7 +6943,6 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="link"><![CDATA[link]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-link"><![CDATA[Link]]></category>
 </item>
@@ -6980,7 +6970,6 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="image"><![CDATA[image]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
 </item>
@@ -7007,7 +6996,6 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-quote"><![CDATA[Quote]]></category>
   <category domain="post_tag" nicename="quote"><![CDATA[quote]]></category>
@@ -7034,7 +7022,6 @@ Abbott: Oh, that's our shortstop!]]></content:encoded>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-status"><![CDATA[Status]]></category>
   <category domain="post_tag" nicename="status"><![CDATA[status]]></category>
@@ -7064,7 +7051,6 @@ Posted as per the <a href="https://codex.wordpress.org/Embeds" target="_blank">i
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="embeds-2"><![CDATA[embeds]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
   <category domain="post_tag" nicename="video"><![CDATA[video]]></category>
@@ -7119,7 +7105,6 @@ Audio shortcode:
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="audio"><![CDATA[audio]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-audio"><![CDATA[Audio]]></category>
   <category domain="post_tag" nicename="shortcode"><![CDATA[shortcode]]></category>
@@ -7532,7 +7517,6 @@ This is some text after the Tiled Gallery just to make sure that everything spac
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="gallery"><![CDATA[gallery]]></category>
   <category domain="post_tag" nicename="jetpack-2"><![CDATA[jetpack]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
   <category domain="post_tag" nicename="shortcode"><![CDATA[shortcode]]></category>
@@ -8564,7 +8548,6 @@ There should be no comment reply form, but <em>should</em> display pingbacks and
   <category domain="post_tag" nicename="mustread"><![CDATA[Must Read]]></category>
   <category domain="post_tag" nicename="nailedit"><![CDATA[Nailed It]]></category>
   <category domain="post_tag" nicename="pictures"><![CDATA[Pictures]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_tag" nicename="quote"><![CDATA[quote]]></category>
   <category domain="post_tag" nicename="shortcode"><![CDATA[shortcode]]></category>
   <category domain="post_tag" nicename="standard-2"><![CDATA[standard]]></category>
@@ -8719,7 +8702,6 @@ It should not be displayed by the theme.]]></content:encoded>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="image"><![CDATA[image]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
 </item>
@@ -8747,7 +8729,6 @@ Learn more about <a title="WordPress Embeds" href="https://codex.wordpress.org/E
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 </item>
@@ -8774,7 +8755,6 @@ Learn more about <a title="WordPress Embeds" href="https://codex.wordpress.org/E
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="classic"><![CDATA[Classic]]></category>
   <category domain="post_tag" nicename="image"><![CDATA[image]]></category>
-  <category domain="post_tag" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="category" nicename="post-formats"><![CDATA[Post Formats]]></category>
   <category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
   <category domain="post_tag" nicename="shortcode"><![CDATA[shortcode]]></category>
