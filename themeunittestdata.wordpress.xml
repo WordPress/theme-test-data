@@ -11350,5 +11350,62 @@ Still sticking with science and Albert Einstein's E = MC<sup>2 δύο</sup>, whi
                 <wp:meta_value><![CDATA[default]]></wp:meta_value>
             </wp:postmeta>
         </item>
+
+        <item>
+		<title>Screenshot: Image license attributions</title>
+		<link></link>
+		<pubDate></pubDate>
+		<dc:creator>themereviewteam</dc:creator>
+		<guid isPermaLink="false"></guid>
+		<description></description>
+		<content:encoded>
+        <![CDATA[<!-- wp:paragraph -->
+        <p>All the images in the screenshot must be under a 100% GPL or compatible license. The following licenses are suitable for the themes in the directory.</p>
+        <!-- /wp:paragraph -->
+
+        <!-- wp:paragraph -->
+        <p><a href="http://www.gnu.org/licenses/license-list.html#CC0">CC0</a><br><a href="http://www.gnu.org/licenses/license-list.html#ccby">CC BY 4.0</a><br><a href="http://www.gnu.org/licenses/license-list.html#ccbysa">CC-BY-SA 4.0</a> – Compatible with the GPLv3 only.</p>
+        <!-- /wp:paragraph -->
+
+        <!-- wp:heading {"level":3} -->
+        <h3>Recommended websites (for images):</h3>
+        <!-- /wp:heading -->
+
+        <!-- wp:paragraph -->
+        <p><a href="https://www.pexels.com/">Pexels</a> - Note pexels has two different licenses, CCO and "<a href="https://www.pexels.com/license/">Legal Simplicity</a>" license. CCO License are allowed. "Legal Simplicity" are NOT allowed.</p>
+        <!-- /wp:paragraph -->
+
+        <!-- wp:paragraph -->
+        <p><a href="https://stocksnap.io/">stocksnap.io</a><br><a href="https://skitterphoto.com/">skitterphoto.com</a><br><a href="https://mystock.themeisle.com/">mystock.photos</a><br><a href="https://mystock.themeisle.com/">pickupimage.com</a><br><a href="https://pxhere.com/">pxhere.com</a><br><a href="https://www.foodiesfeed.com/">foodiesfeed.com</a><br><a href="https://www.si.edu/openaccess">Smithsonian Open Access</a></p>
+        <!-- /wp:paragraph -->
+
+        <!-- wp:heading {"level":3} -->
+        <h3>Restricted websites:</h3>
+        <!-- /wp:heading -->
+
+        <!-- wp:paragraph -->
+        <p>The following websites are NOT allowed. Consider using different images.</p>
+        <!-- /wp:paragraph -->
+
+        <!-- wp:paragraph -->
+        <p>unsplash.com<br>freeimages.com<br>scx.hu<br>photopin.com<br>splitshire.com<br>pixabay.com<br>freepik.com<br>flaticon.com<br>pikwizard.com<br>adobe stock<br>envato elements<br>undraw.co</p>
+        <!-- /wp:paragraph -->]]>
+    </content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id></wp:post_id>
+		<wp:post_date></wp:post_date>
+		<wp:post_date_gmt></wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>image-license-attributions</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>2</wp:post_parent>
+    <wp:menu_order>6</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+		<wp:post_password/>
+		<wp:is_sticky>0</wp:is_sticky>
+</item>
+
+
   </channel>
 </rss>
