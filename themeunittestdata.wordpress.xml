@@ -1091,19 +1091,19 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"fontSize":"small"} -->
-<h2 class="has-small-font-size">Small H2 Heading</h2>
+<h2 class="has-small-font-size">Small Heading 2</h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"fontSize":"medium"} -->
-<h2 class="has-medium-font-size">Medium H2 Heading</h2>
+<h2 class="has-medium-font-size">Medium Heading 2</h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"fontSize":"large"} -->
-<h2 class="has-large-font-size">Large H2 Heading</h2>
+<h2 class="has-large-font-size">Large Heading 2</h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"fontSize":"large"} -->
-<h2 class="has-large-font-size">Extra Large H2 Heading</h2>
+<h2 class="has-large-font-size">Extra Large Heading 2</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
@@ -2210,27 +2210,27 @@ video/quicktime
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":1} -->
-<h1>H1 Heading</h1>
+<h1>Heading 1</h1>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2>H2 Heading</h2>
+<h2>Heading 2</h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":3} -->
-<h3>H3 Heading</h3>
+<h3>Heading 3</h3>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":4} -->
-<h4>H4 Heading</h4>
+<h4>Heading 4</h4>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":5} -->
-<h5>H5 Heading</h5>
+<h5>Heading 5</h5>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":6} -->
-<h6>H6 Heading</h6>
+<h6>Heading 6</h6>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
@@ -8845,12 +8845,12 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image al
 	<guid isPermaLink="false">http://wptest.io/demo/?page_id=1083</guid>
 	<description/>
 	<content:encoded><![CDATA[<strong>Headings</strong>
-<h1>Header one</h1>
-<h2>Header two</h2>
-<h3>Header three</h3>
-<h4>Header four</h4>
-<h5>Header five</h5>
-<h6>Header six</h6>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
 <h2>Blockquotes</h2>
 Single line blockquote:
 <blockquote>Stay hungry. Stay foolish.</blockquote>
@@ -9120,12 +9120,12 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 	<wp:comment_date>2012-09-03 10:18:04</wp:comment_date>
 	<wp:comment_date_gmt>2012-09-03 17:18:04</wp:comment_date_gmt>
 	<wp:comment_content><![CDATA[<strong>Headings</strong>
-<h1>Header one</h1>
-<h2>Header two</h2>
-<h3>Header three</h3>
-<h4>Header four</h4>
-<h5>Header five</h5>
-<h6>Header six</h6>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
 <h2>Blockquotes</h2>
 Single line blockquote:
 <blockquote>Stay hungry. Stay foolish.</blockquote>
@@ -10548,12 +10548,12 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image al
 	<guid isPermaLink="false">http://wptest.io/demo/?p=919</guid>
 	<description/>
 	<content:encoded><![CDATA[<strong>Headings</strong>
-<h1>Header one</h1>
-<h2>Header two</h2>
-<h3>Header three</h3>
-<h4>Header four</h4>
-<h5>Header five</h5>
-<h6>Header six</h6>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
 <h2>Blockquotes</h2>
 Single line blockquote:
 <blockquote>Stay hungry. Stay foolish.</blockquote>
@@ -10954,27 +10954,27 @@ Be sure to test the formatting of the auto-generated excerpt, to ensure that it 
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":1} -->
-<h1>H1 Heading</h1>
+<h1>Heading 1</h1>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
-<h2>H2 Heading</h2>
+<h2>Heading 2</h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":3} -->
-<h3>H3 Heading</h3>
+<h3>Heading 3</h3>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":4} -->
-<h4>H4 Heading</h4>
+<h4>Heading 4</h4>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":5} -->
-<h5>H5 Heading</h5>
+<h5>Heading 5</h5>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":6} -->
-<h6>H6 Heading</h6>
+<h6>Heading 6</h6>
 <!-- /wp:heading -->
 
 <!-- wp:heading -->
@@ -12288,13 +12288,13 @@ Raindrop ripples on a pond</figcaption></figure></li><li class="blocks-gallery-i
 	<description></description>
 	<content:encoded><![CDATA[Typography tests for Greek Ελληνική σελίδα 1ου επιπέδου και δείγμα τυπογραφίας.
 
-<strong>Headings Επικεφαλίδες</strong>
-<h1>Επικεφαλίδα 1 Header one</h1>
-<h2>Επικεφαλίδα 2 Header two</h2>
-<h3>Επικεφαλίδα 3 Header three</h3>
-<h4>Επικεφαλίδα 2 Header four</h4>
-<h5>Επικεφαλίδα 5 Header five</h5>
-<h6>Επικεφαλίδα 6Header six</h6>
+<strong>Επικεφαλίδες Headings</strong>
+<h1>Επικεφαλίδα 1 Heading 1</h1>
+<h2>Επικεφαλίδα 2 Heading 2</h2>
+<h3>Επικεφαλίδα 3 Heading 3</h3>
+<h4>Επικεφαλίδα 2 Heading 4</h4>
+<h5>Επικεφαλίδα 5 Heading 5</h5>
+<h6>Επικεφαλίδα 6 Heading 6</h6>
 <h2>Παράθεση άλλου Blockquotes</h2>
 Single line blockquote: Μια γραμμή
 <blockquote>Πάντα να είναι περίεργος.</blockquote>
