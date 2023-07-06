@@ -1102,8 +1102,8 @@
 <h2 class="has-large-font-size">Large H2 Heading</h2>
 <!-- /wp:heading -->
 
-<!-- wp:heading {"fontSize":"large"} -->
-<h2 class="has-large-font-size">Extra Large H2 Heading</h2>
+<!-- wp:heading {"fontSize":"x-large"} -->
+<h2 class="has-x-large-font-size">Extra Large H2 Heading</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
