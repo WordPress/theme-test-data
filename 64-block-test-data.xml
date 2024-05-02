@@ -11697,7 +11697,7 @@ Code is poetry</pre>
 <p>Note: test this block both when logged in and logged out.</p>
 <!-- /wp:paragraph -->
 
-<![CDATA[<!-- wp:loginout /-->
+<!-- wp:loginout /-->
 
 <!-- wp:paragraph -->
 <p>Without redirect to current URL:</p>
